@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "233582763497",
+    "project_id": "get-to-know-firebase-65405",
+    "storage_bucket": "get-to-know-firebase-65405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233582763497:android:4ee876a5cdcd55560f7f78",
+        "android_client_info": {
+          "package_name": "com.example.eziline_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233582763497-b4992bl1skro5cm7vh69joebs9ashhto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeD-a5hHXLTF8tNVevZJjT9VmSA3AjfPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233582763497-b4992bl1skro5cm7vh69joebs9ashhto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233582763497-r4c5lf6hdcesv2gmev3bi2v5cvq3rsnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseMeetup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233582763497:android:4c63d9b01d50160a0f7f78",
+        "android_client_info": {
+          "package_name": "com.example.firebase_meetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233582763497-b4992bl1skro5cm7vh69joebs9ashhto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeD-a5hHXLTF8tNVevZJjT9VmSA3AjfPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233582763497-b4992bl1skro5cm7vh69joebs9ashhto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233582763497-r4c5lf6hdcesv2gmev3bi2v5cvq3rsnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseMeetup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
